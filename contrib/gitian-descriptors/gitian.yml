@@ -1,7 +1,7 @@
 ---
 name: "pratinha"
 suites:
-- "lucid"
+- "xenial"
 architectures:
 - "i386"
 - "amd64"
