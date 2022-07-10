@@ -3,7 +3,7 @@ name: "boost"
 suites:
 - "xenial"
 architectures:
-- "amd64"
+- "i386"
 packages:
 - "mingw-w64"
 - "g++-mingw-w64"
